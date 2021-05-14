@@ -6,159 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6fe1f2b-170b-4be4-b814-3329ec1ec8ea" name="Default Changelist" comment="My second commite">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/react-way-of-samurai.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sZ" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/api/api.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/ava.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/preloader.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/tails.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/AddMessageForm/AddMessageForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/DialogItem/DialogItem.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/DialogsContainer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Message/Message.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/introduction.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FlowWindow/FlowWindow.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/FlowWindow/FlowWindow.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Game.rar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Game/Game.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Game/Game.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Game/GameContainer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderContainer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/img/logoLeft.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header/img/logoRight.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Login/Login.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/MemoryGame.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/MemoryGame.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/20.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/21.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/22.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/23.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/25.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/26.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/27.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/29.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/30.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/31.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/delete.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MemoryPuzzle.rar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MyIP/MyIP.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/MyIP/MyIP.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/News/News.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/News/NewsContainer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NumbGame/NumbGame.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NumbGame/NumbGame.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NumbGame/NumbgameContainer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NumbPuzzle/BoardNumbGame.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NumbPuzzle/CellNumb.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NumbPuzzle/FormGame.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NumbPuzzle/NumbPuzzle.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NumbPuzzle/NumbPuzzle.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NumbPuzzle/PopUp.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/AddPostForm/AddPostForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPostsContainer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/Profile.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileContainer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileDataForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatus.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatus.test.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatusWithHooks.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SearchMovie/SearchMovie.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SearchMovie/SearchMovie.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SearchMovie/fonts/DotGothic16-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SearchMovie/img/header.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SearchMovie/img/main-bg-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SearchMovie/img/main-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SearchMovie/img/noVideo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/SearchMovie/img/no_poster.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ToDoList/ToDoList.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ToDoList/ToDoList.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Users/Paginator.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Users/User.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Users/Users.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Users/UsersContainer.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Users/paginator.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Users/users.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/_MySandbox/MySandbox.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/_MySandbox/MySandbox.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/_sandbox/SandBox.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/_sandbox/SandBox.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/_sandbox2/SandBox2.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/_sandbox2/SandBox2.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/FormsControls/FormsControls.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/FormsControls/FormsControls.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/common/Preloader/Preloader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hoc/withAuthRedirect.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/app-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/auth-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/dialogs-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/game-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/news-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/numbgame-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/profile-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/profile-reducer.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/redux-store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/sidebar-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/users-reducer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/users-selectors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/object-helpers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/validators/validators.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -359,8 +207,16 @@
       <workItem from="1620832656081" duration="1390000" />
       <workItem from="1620911723592" duration="6028000" />
       <workItem from="1620982387593" duration="1484000" />
-      <workItem from="1620985085956" duration="747000" />
+      <workItem from="1620985085956" duration="1417000" />
     </task>
+    <task id="LOCAL-00001" summary="My second commite">
+      <created>1620985898262</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620985898262</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -392,10 +248,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="370" y="451" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1618584170235" />
-    <state x="748" y="270" width="1567" height="867" key="CommitChangelistDialog2" timestamp="1620985239268">
+    <state x="748" y="270" width="1567" height="867" key="CommitChangelistDialog2" timestamp="1620985896087">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="748" y="270" width="1567" height="867" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1620985239268" />
+    <state x="748" y="270" width="1567" height="867" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1620985896087" />
     <state x="1061" y="443" key="FileChooserDialogImpl" timestamp="1619682747996">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
