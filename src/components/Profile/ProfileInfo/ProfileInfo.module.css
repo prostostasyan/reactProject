@@ -1,0 +1,38 @@
+.descriptionBlock {
+    padding: 10px;
+    /*background-color: red;*/
+}
+
+.mainPhoto{
+    width:85%;
+    border-radius: 20px;
+}
+.contact{
+    padding-left:10px;
+    /*color: red;*/
+}
+
+.reds{
+    padding: 8px 20px;
+    background-color: rgba(198, 12, 67,0.9);
+    width: 55%;
+    float: left;
+    border-radius: 20px;
+}
+
+.myImg{
+    width: 40%;
+    /*background-color: red;*/
+    float: left;
+}
+.myImg input{
+    /*display: inline-block;*/
+}
+.yellow {
+    background-color: yellow;
+    height: 400px;
+}
+.edit{
+    border-radius: 4px;
+    background-color: deepskyblue;
+}

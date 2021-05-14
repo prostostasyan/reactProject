@@ -1,0 +1,33 @@
+.formControl.error input,
+.formControl.error textarea
+{
+    border: solid red 2px;
+}
+
+.formControl.error span
+{
+    position: absolute;
+    font-weight: bolder;
+    color: crimson;
+    margin-top:-25px ;
+    /*border:1px solid black;*/
+}
+
+.formSummaryError {
+    border: red 1px solid;
+    padding: 5px;
+    color: red;
+}
+
+.formOther{
+    display: inline;
+    background: greenyellow;
+    width: 45%;
+    float: right;
+}
+.formContact{
+    display: inline;
+    width: 45%;
+    background: blue;
+    float: right;
+}

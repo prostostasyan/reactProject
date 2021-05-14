@@ -1,0 +1,41 @@
+.postsBlock {
+    padding: 10px;
+
+}
+
+.posts {
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+/*form{*/
+
+/*    background-color: greenyellow ;*/
+/*}*/
+
+
+form .postForm input {
+    float: left;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #FFF;
+    width: 75%;
+}
+/*form input:required{*/
+/*   border:1px black;*/
+/*}*/
+
+form .postForm  button {
+    width: 20%;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #0066FF;
+    color: #FFF;
+    border: 2px solid #0066FF;
+}
+
+form .postForm  button:hover {
+    background-color: #003399;
+    border: 2px solid #003399;
+    cursor: pointer;
+}

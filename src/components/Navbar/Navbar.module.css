@@ -1,0 +1,21 @@
+.nav {
+    grid-area: n;
+    background-color: coral;
+    padding: 20px;
+}
+
+.item a {
+    color: white;
+    text-decoration: none;
+}
+
+.item a.activeLink {
+    color: gold;
+}
+.opacity{
+    opacity: 0.2;
+}
+.item .sandbox{
+    color: crimson;
+    font-weight: bolder;
+}

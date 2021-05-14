@@ -1,0 +1,245 @@
+@font-face {
+    font-family: Pixel;
+    src: url(fonts/DotGothic16-Regular.ttf);
+}
+
+
+.titleinfo {
+    color: green;
+    font-weight: 700;
+}
+
+.title {
+    padding-top: 50px;
+    margin-bottom: 50px;
+    color: cornflowerblue;
+    margin-top: 160px;
+    text-shadow: 1rem 1rem 1rem #222222, 0 0 5px black;
+    font-weight: bolder;
+    font-size: 3em;
+    text-align: center;
+}
+
+.titleMovie {
+    font-size: 1em;
+    text-align: center;
+    color: forestgreen;
+}
+
+.recommendation, .nothingFind {
+    width: 100%;
+    font-family: Pixel;
+    font-weight: bold;
+    font-size: 2em;
+    color: #dc143c;
+    text-align: center;
+    text-shadow: 0 0 7px black;
+}
+
+.moreDetails {
+    font-size: 2rem;
+}
+
+.moreDetails:hover {
+    cursor: pointer;
+    text-decoration: none;
+    color: deepskyblue;
+}
+
+.navbarSearch {
+    background-image: url('img/header.jpg');
+    background-repeat: no-repeat;
+    max-height: 30%;
+    background-size: cover;
+    padding-bottom: 4rem;
+}
+
+
+.bg {
+    margin-top: -160px;
+    background-image: url('img/main-bg-2.jpg');
+    background-size: cover;
+    height: 100%;
+
+}
+
+.pic {
+    width: 170px
+}
+
+
+.btnSearch {
+    display: inline-block;
+    cursor: pointer;
+    font-size: 30px;
+    font-weight: 700;
+    /*float: right;*/
+    height: 56px;
+    color: cornflowerblue;
+    background: #dddddd;
+    width: 20%;
+}
+
+.btnSearch:active {
+    background: red;
+}
+
+.searchInput {
+    display: inline-block;
+    padding-left: 5rem;
+    width: 50%;
+    height: 50px;
+    float: left;
+    margin-left: 20px;
+
+}
+
+.searchInput[type="text"], .searchInput::placeholder {
+    font-size: 30px;
+    color: cornflowerblue;
+    background: #dddddd;
+}
+
+.poster {
+    width: 50px;
+}
+
+
+.blockMovie {
+    cursor: pointer;
+    padding-top: 2rem;
+    background: rgba(105, 105, 105, 0.4);
+    font-size: 1.5rem;
+    font-weight: 800;
+    text-shadow: 1px 1px 0 black;
+    width: 20rem;
+    height: 22rem;
+    /*border: grey solid 1px;*/
+    border-radius: 1rem;
+    float: left;
+    text-align: center;
+    margin: 0.5%;
+}
+
+.moreDetails {
+    padding-top: 20px;
+    text-align: center;
+}
+
+
+.overlay {
+    color: red;
+    background: rgba(0, 0, 0, 0.8);
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 1;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+}
+
+.popup {
+    position: fixed;
+    background: rgba(33, 66, 66, 0.9);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+    height: 50%;
+    -webkit-box-shadow: 0 10px 15px #222;
+    box-shadow: 0 10px 15px #222;
+    border-radius: 5px;
+    text-align: center;
+    z-index: 999;
+}
+
+.popup .btn {
+    float: right;
+    width: 40px;
+    margin-left: 50px;
+    background: red;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    padding: 5px 12px;
+    color: #ddd;
+}
+
+.textPopup {
+    display: inline-block;
+    /*border: 1px solid black;*/
+    color: grey;
+    text-shadow: 0 0 5px #222222;
+    text-align: justify;
+    padding-top: 0.5%;
+    width: 33%;
+    height: 90%;
+    font-size: 2rem;
+    float: left;
+    margin-top: 2%;
+    margin-left: 20%;
+
+}
+
+.picContainer {
+    display: inline-block;
+    margin-top: 2%;
+    margin-left: 1%;
+    margin-right: 1%;
+    /*width: 20%;*/
+    float: left;
+    vertical-align: middle;
+}
+
+
+.miniPoster {
+    position: absolute;
+    display: inline-block;
+    height: 90%;
+    /*float: left;*/
+    vertical-align: middle;
+}
+
+.infoMovie {
+    /*width: 80%;*/
+    /*float: left;*/
+    /*vertical-align: middle;*/
+}
+
+.descript {
+    color: white;
+    text-align: justify;
+    padding-right: 5px;
+    padding-top: 2rem;
+    font-size: 1.3rem;
+}
+
+
+.video {
+    /*padding-top: -60rem;*/
+    margin-top: 2%;
+    margin-left:0.9% ;
+    width: 40%;
+    height: 90%;
+    float: right;
+}
+
+.video iframe {
+    width: 100%;
+    height: 100%;
+}
+
+
+
+.title:first-child:hover{
+    cursor: pointer;
+}
+
+
+
+
+
+

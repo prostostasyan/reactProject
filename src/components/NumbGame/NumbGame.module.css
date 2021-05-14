@@ -1,0 +1,53 @@
+
+.NumbGameContainer .NumbGame .cell_NumbGame {
+
+    width: 80px;
+    height: 80px;
+    margin: 4px;
+    font-weight: 600;
+    background-color: aqua;
+    font-size: 2.4rem;
+    border-radius: 10%;
+    position: relative;
+    text-shadow: 0 0 1px black;
+    color: grey;
+}
+
+.NumbGameContainer .NumbGame .select_NumbGame:focus, .NumbGameContainer .NumbGame .cell_NumbGame:focus{
+    outline: none;
+}
+
+
+
+
+
+
+
+
+.NumbGameContainer .NumbGame .select_NumbGame{
+    background-color: green;
+    transition: all 0.4s;
+    opacity: 33%;
+    width: 80px;
+    height: 80px;
+    margin: 4px;
+    border-radius: 10%;
+    font-size: 2.4rem;
+    text-shadow: 0 0 1px black;
+    color: grey;
+}
+
+.NumbGameContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    /*background-color: red;*/
+}
+
+.NumbGame {
+
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+    /*background-color: green;*/
+}

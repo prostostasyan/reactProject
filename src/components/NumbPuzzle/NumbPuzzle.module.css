@@ -1,0 +1,176 @@
+
+.NumbGameContainer .NumbGame .cell_NumbGame {
+    background-color: bisque;
+    width: 50px;
+    height: 50px;
+}
+
+.NumbGameContainer .NumbGame .select_NumbGame {
+    background-color: green;
+    width: 50px;
+    height: 50px;
+}
+
+.boardGame {
+    margin-left: auto;
+    margin-right: auto;
+    /*width: 50%;*/
+    margin-top: 20px;
+    /*border-radius: 8px;*/
+    border-spacing: 10px;
+    background-color: orange;
+    padding: 10px;
+    border-style: none;
+}
+
+.container {
+    text-align: center;
+
+}
+
+.containerBoard {
+    width: 100%;
+
+}
+
+.cellNumb {
+    text-shadow: 0 0 1px black;
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    font-size: 3rem;
+    border-radius: 10%;
+    margin: 2px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    transition: all 0.25s;
+    position: relative;
+    text-shadow: 0 0 1px black;
+    color: grey;
+}
+.cellNumb:hover{
+    cursor: pointer;
+}
+
+.cellNumb:focus {
+    outline: none;
+}
+
+
+.overlay {
+    color: red;
+    background: rgba(0, 0, 0, 0.8);
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 1;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+}
+
+.popup {
+    position: fixed;
+    background: rgba(33, 66, 66, 0.9);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 20%;
+    height: 10%;
+    -webkit-box-shadow: 0 10px 15px #222;
+    box-shadow: 0 10px 15px #222;
+    border-radius: 5px;
+    text-align: center;
+    z-index: 999;
+}
+
+.popup .textPopUp {
+    margin: auto;
+    margin-top: 4%;
+    color: white;
+    text-shadow: 0 0 5px #222222;
+    font-size: 1.5rem;
+}
+
+.popup .btnYes {
+    width: 40px;
+    background: green;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    padding: 5px 12px;
+    color: #ddd;
+    margin-left: 20px;
+}
+
+.popup .btnNo {
+    width: 40px;
+    background: red;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    padding: 5px 0;
+    color: black;
+    font-weight: 700;
+    margin-left: 20px;
+}
+
+input[type=range] {
+    width: 400px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+    border-radius: 10px/100%;
+    height: 7px;
+    border: 1px solid cyan;
+    background-color: #fff;
+}
+
+.hide {
+    visibility: hidden;
+    margin-top: -30px
+}
+
+input[type=range]::-webkit-slider-thumb {
+    background: #ecf0f1;
+    border: 1px solid cyan;
+    border-radius: 10px/100%;
+    cursor: pointer;
+    width: 15px;
+    height: 15px;
+    -webkit-appearance: none;
+    margin-top: -4px;
+}
+
+input[type=range]::-moz-range-track {
+    border-radius: 10px/100%;
+    height: 5px;
+    border: 1px solid cyan;
+    background-color: #fff;
+}
+
+input[type=range]::-moz-range-thumb {
+    background: #ecf0f1;
+    border: 1px solid cyan;
+    border-radius: 10px/100%;
+    cursor: pointer;
+}
+
+.line {
+    display: inline;
+    float: left;
+}
+
+.formGame {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+
+}

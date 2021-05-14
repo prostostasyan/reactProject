@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d6fe1f2b-170b-4be4-b814-3329ec1ec8ea" name="Default Changelist" comment="My second commite">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/react-way-of-samurai.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sZ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/ava.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/preloader.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/tails.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/AddMessageForm/AddMessageForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/DialogItem/DialogItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Dialogs.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/DialogsContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/Message/Message.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dialogs/introduction.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FlowWindow/FlowWindow.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/FlowWindow/FlowWindow.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Game.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Game/Game.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Game/Game.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Game/GameContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/HeaderContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/img/logoLeft.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header/img/logoRight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Login/Login.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/MemoryGame.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/MemoryGame.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryGame/img/ico/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MemoryPuzzle.rar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MyIP/MyIP.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MyIP/MyIP.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar/Navbar.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/News/News.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/News/NewsContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NumbGame/NumbGame.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NumbGame/NumbGame.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NumbGame/NumbgameContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NumbPuzzle/BoardNumbGame.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NumbPuzzle/CellNumb.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NumbPuzzle/FormGame.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NumbPuzzle/NumbPuzzle.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NumbPuzzle/NumbPuzzle.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NumbPuzzle/PopUp.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/AddPostForm/AddPostForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPosts.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/MyPostsContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/MyPosts/Post/Post.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/Profile.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/Profile.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileDataForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileInfo.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatus.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatus.test.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatusWithHooks.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SearchMovie/SearchMovie.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SearchMovie/SearchMovie.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SearchMovie/fonts/DotGothic16-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SearchMovie/img/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SearchMovie/img/main-bg-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SearchMovie/img/main-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SearchMovie/img/noVideo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/SearchMovie/img/no_poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ToDoList/ToDoList.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ToDoList/ToDoList.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Users/Paginator.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Users/User.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Users/Users.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Users/UsersContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Users/paginator.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Users/users.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/_MySandbox/MySandbox.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/_MySandbox/MySandbox.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/_sandbox/SandBox.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/_sandbox/SandBox.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/_sandbox2/SandBox2.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/_sandbox2/SandBox2.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/FormsControls/FormsControls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/FormsControls/FormsControls.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/common/Preloader/Preloader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hoc/withAuthRedirect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/app-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/auth-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/dialogs-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/game-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/news-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/numbgame-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/profile-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/profile-reducer.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/redux-store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/sidebar-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/users-reducer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/redux/users-selectors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/object-helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/validators/validators.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Stas" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jrivXBFFboPt5eR9Fr8ADnRdxp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\_КУРСЫ\HTML_akademy\React\Reposit\react-way-of-samurai\src\components\NumbPuzzle" />
+      <recent name="E:\_КУРСЫ\HTML_akademy\React\Reposit\react-way-of-samurai\src\components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\_КУРСЫ\HTML_akademy\React\Reposit\react-way-of-samurai\src\components" />
+      <recent name="E:\_КУРСЫ\HTML_akademy\React\Reposit\react-way-of-samurai\src\components\Users" />
+      <recent name="E:\_КУРСЫ\HTML_akademy\React\Reposit\react-way-of-samurai\src\components\NumbPuzzle" />
+      <recent name="E:\_КУРСЫ\HTML_akademy\React\Reposit\react-way-of-samurai\src" />
+      <recent name="E:\_КУРСЫ\HTML_akademy\React\Reposit\react-way-of-samurai\src\_sandbox" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.NumbgameContainer.jsx">
+    <configuration name="ProfileStatus component .&lt;Input&gt; should BE displayd in editMode instead of span" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatus.test.jsx" />
+      <test-names>
+        <test-name value="ProfileStatus component " />
+        <test-name value="&lt;Input&gt; should BE displayd in editMode instead of span" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="ProfileStatus component " type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/src/components/Profile/ProfileInfo/ProfileStatus.test.jsx" />
+      <test-names>
+        <test-name value="ProfileStatus component " />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Navbar.jsx" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/components/Navbar/Navbar.jsx" working-dir="$PROJECT_DIR$/src/components/Navbar">
+      <method v="2" />
+    </configuration>
+    <configuration name="NumbGame.jsx" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/components/NumbGame/NumbGame.jsx" working-dir="$PROJECT_DIR$/src/components/NumbGame">
+      <method v="2" />
+    </configuration>
+    <configuration name="NumbgameContainer.jsx" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="NumbgameContainer.jsx" working-dir="$PROJECT_DIR$/src/components/NumbGame">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+        <browser name="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.NumbgameContainer.jsx" />
+        <item itemvalue="Node.js.Navbar.jsx" />
+        <item itemvalue="Node.js.NumbGame.jsx" />
+        <item itemvalue="Jest.ProfileStatus component " />
+        <item itemvalue="Jest.ProfileStatus component .&lt;Input&gt; should BE displayd in editMode instead of span" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6fe1f2b-170b-4be4-b814-3329ec1ec8ea" name="Default Changelist" comment="" />
+      <created>1604568841871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604568841871</updated>
+      <workItem from="1604568847222" duration="661000" />
+      <workItem from="1606379167143" duration="12973000" />
+      <workItem from="1606481861563" duration="611000" />
+      <workItem from="1606637107975" duration="1215000" />
+      <workItem from="1606659425476" duration="9499000" />
+      <workItem from="1606735663719" duration="14022000" />
+      <workItem from="1606807473525" duration="15845000" />
+      <workItem from="1606854792361" duration="2320000" />
+      <workItem from="1606903438877" duration="6907000" />
+      <workItem from="1606931750585" duration="2267000" />
+      <workItem from="1606995322420" duration="20157000" />
+      <workItem from="1607345830144" duration="12298000" />
+      <workItem from="1607409089467" duration="10922000" />
+      <workItem from="1607538050850" duration="5026000" />
+      <workItem from="1608891893393" duration="6079000" />
+      <workItem from="1608916251551" duration="9833000" />
+      <workItem from="1608964755218" duration="4811000" />
+      <workItem from="1609007439519" duration="5149000" />
+      <workItem from="1609259631915" duration="943000" />
+      <workItem from="1609678220381" duration="735000" />
+      <workItem from="1609844417156" duration="4670000" />
+      <workItem from="1609868939307" duration="3902000" />
+      <workItem from="1609920945648" duration="4395000" />
+      <workItem from="1609959136350" duration="4351000" />
+      <workItem from="1610175181383" duration="14584000" />
+      <workItem from="1610196296419" duration="4924000" />
+      <workItem from="1610279780903" duration="2258000" />
+      <workItem from="1610375626090" duration="12954000" />
+      <workItem from="1610540147068" duration="285000" />
+      <workItem from="1613808140967" duration="2619000" />
+      <workItem from="1617004869336" duration="6250000" />
+      <workItem from="1617025807992" duration="11939000" />
+      <workItem from="1617081796913" duration="27545000" />
+      <workItem from="1617118941605" duration="2979000" />
+      <workItem from="1617170345980" duration="31729000" />
+      <workItem from="1617259649145" duration="6698000" />
+      <workItem from="1617280183966" duration="9417000" />
+      <workItem from="1617347025689" duration="5477000" />
+      <workItem from="1617361327902" duration="9891000" />
+      <workItem from="1617451683606" duration="3354000" />
+      <workItem from="1617459916098" duration="10691000" />
+      <workItem from="1617546196175" duration="10076000" />
+      <workItem from="1617601366570" duration="14524000" />
+      <workItem from="1617681565003" duration="26521000" />
+      <workItem from="1617781524688" duration="14127000" />
+      <workItem from="1617805086308" duration="56000" />
+      <workItem from="1617870987933" duration="13371000" />
+      <workItem from="1617948016846" duration="1961000" />
+      <workItem from="1617949992201" duration="3913000" />
+      <workItem from="1618035402674" duration="9117000" />
+      <workItem from="1618057878935" duration="2058000" />
+      <workItem from="1618224612916" duration="7294000" />
+      <workItem from="1618242599091" duration="8881000" />
+      <workItem from="1618301951555" duration="24875000" />
+      <workItem from="1618392868128" duration="1615000" />
+      <workItem from="1618475391578" duration="24005000" />
+      <workItem from="1618564011152" duration="17560000" />
+      <workItem from="1618594342950" duration="860000" />
+      <workItem from="1618613676011" duration="622000" />
+      <workItem from="1618672711426" duration="9279000" />
+      <workItem from="1618730848158" duration="6176000" />
+      <workItem from="1618816606074" duration="23391000" />
+      <workItem from="1618912411760" duration="10382000" />
+      <workItem from="1618992227344" duration="9598000" />
+      <workItem from="1619171394686" duration="615000" />
+      <workItem from="1619287713667" duration="2613000" />
+      <workItem from="1619340282099" duration="1991000" />
+      <workItem from="1619421221786" duration="10045000" />
+      <workItem from="1619446276483" duration="10753000" />
+      <workItem from="1619504646715" duration="10444000" />
+      <workItem from="1619520924530" duration="2407000" />
+      <workItem from="1619525305789" duration="15439000" />
+      <workItem from="1619595095385" duration="25855000" />
+      <workItem from="1619680288453" duration="20212000" />
+      <workItem from="1619791796800" duration="12119000" />
+      <workItem from="1619849649075" duration="20239000" />
+      <workItem from="1620113507562" duration="1654000" />
+      <workItem from="1620155040588" duration="5286000" />
+      <workItem from="1620191826830" duration="5080000" />
+      <workItem from="1620203321542" duration="3783000" />
+      <workItem from="1620379987061" duration="621000" />
+      <workItem from="1620467787994" duration="9724000" />
+      <workItem from="1620538728666" duration="8233000" />
+      <workItem from="1620641217737" duration="2548000" />
+      <workItem from="1620714121792" duration="9058000" />
+      <workItem from="1620832656081" duration="1390000" />
+      <workItem from="1620911723592" duration="6028000" />
+      <workItem from="1620982387593" duration="1484000" />
+      <workItem from="1620985085956" duration="747000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My first commite" />
+    <MESSAGE value="My second commite" />
+    <option name="LAST_COMMIT_MESSAGE" value="My second commite" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="991" y="359" key="#NumbgameContainer.jsx" timestamp="1617949513265">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="991" y="359" key="#NumbgameContainer.jsx/0.0.2560.1400@0.0.2560.1400" timestamp="1617949513265" />
+    <state x="370" y="451" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618584170235">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="370" y="451" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1618584170235" />
+    <state x="748" y="270" width="1567" height="867" key="CommitChangelistDialog2" timestamp="1620985239268">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="748" y="270" width="1567" height="867" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1620985239268" />
+    <state x="1061" y="443" key="FileChooserDialogImpl" timestamp="1619682747996">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1061" y="443" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1619682747996" />
+    <state width="2539" height="492" key="GridCell.Tab.0.bottom" timestamp="1617949980485">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="492" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1617949980485" />
+    <state width="2539" height="492" key="GridCell.Tab.0.center" timestamp="1617949980485">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="492" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1617949980485" />
+    <state width="2539" height="492" key="GridCell.Tab.0.left" timestamp="1617949980485">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="492" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1617949980485" />
+    <state width="2539" height="492" key="GridCell.Tab.0.right" timestamp="1617949980485">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="492" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1617949980485" />
+    <state width="2539" height="492" key="GridCell.Tab.1.bottom" timestamp="1617949980485">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="492" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1617949980485" />
+    <state width="2539" height="492" key="GridCell.Tab.1.center" timestamp="1617949980485">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="492" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1617949980485" />
+    <state width="2539" height="492" key="GridCell.Tab.1.left" timestamp="1617949980485">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="492" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1617949980485" />
+    <state width="2539" height="492" key="GridCell.Tab.1.right" timestamp="1617949980485">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="492" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1617949980485" />
+    <state width="2539" height="492" key="GridCell.Tab.2.bottom" timestamp="1617949980486">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="492" key="GridCell.Tab.2.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1617949980486" />
+    <state width="2539" height="492" key="GridCell.Tab.2.center" timestamp="1617949980486">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="492" key="GridCell.Tab.2.center/0.0.2560.1400@0.0.2560.1400" timestamp="1617949980486" />
+    <state width="2539" height="492" key="GridCell.Tab.2.left" timestamp="1617949980485">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="492" key="GridCell.Tab.2.left/0.0.2560.1400@0.0.2560.1400" timestamp="1617949980485" />
+    <state width="2539" height="492" key="GridCell.Tab.2.right" timestamp="1617949980486">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="492" key="GridCell.Tab.2.right/0.0.2560.1400@0.0.2560.1400" timestamp="1617949980486" />
+    <state width="2539" height="492" key="GridCell.Tab.3.bottom" timestamp="1617949980486">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="492" key="GridCell.Tab.3.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1617949980486" />
+    <state width="2539" height="492" key="GridCell.Tab.3.center" timestamp="1617949980486">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="492" key="GridCell.Tab.3.center/0.0.2560.1400@0.0.2560.1400" timestamp="1617949980486" />
+    <state width="2539" height="492" key="GridCell.Tab.3.left" timestamp="1617949980486">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="492" key="GridCell.Tab.3.left/0.0.2560.1400@0.0.2560.1400" timestamp="1617949980486" />
+    <state width="2539" height="492" key="GridCell.Tab.3.right" timestamp="1617949980486">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2539" height="492" key="GridCell.Tab.3.right/0.0.2560.1400@0.0.2560.1400" timestamp="1617949980486" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1619689490077">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.2560.1400@0.0.2560.1400" timestamp="1619689490077" />
+    <state x="1729" y="618" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620982450132">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1729" y="618" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1620982450132" />
+    <state x="987" y="303" width="587" height="795" key="find.popup" timestamp="1620469680398">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="987" y="303" width="587" height="795" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1620469680398" />
+    <state x="483" y="476" key="refactoring.ChangeSignatureDialog" timestamp="1617635644808">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="483" y="476" key="refactoring.ChangeSignatureDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1617635644808" />
+    <state x="297" y="334" key="run.anything.popup" timestamp="1620734636233">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="297" y="334" key="run.anything.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1620734636233" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1620204424983">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1620204424983" />
+  </component>
+</project>

@@ -1,0 +1,142 @@
+.GameContainer{
+    margin: 29px;
+}
+
+.GameContainer .boardRow:after {
+    clear: both;
+    content: "";
+    display: table;
+}
+
+.GameContainer .status {
+    margin-bottom: 10px;
+}
+
+.GameContainer .square {
+    background: #fff;
+    border: 1px solid #999;
+    float: left;
+    font-size: 99px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 126px;
+    width: 126px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+}
+.GameContainer .game .comboWin{
+    background: darkgoldenrod;
+    border: 1px solid #999;
+    float: left;
+    font-size: 85px;
+    font-weight: bold;
+    line-height: 34px;
+    height: 126px;
+    width: 126px;
+    margin-right: -1px;
+    margin-top: -1px;
+    padding: 0;
+    text-align: center;
+}
+
+li{
+    list-style-type: none;
+}
+
+
+
+
+
+
+.GameContainer .square:focus {
+    outline: none;
+}
+
+.GameContainer .square:focus {
+    background: #ddd;
+}
+
+.GameContainer .game {
+    display: flex;
+    flex-direction: row;
+}
+
+.gameInfo {
+    margin-top:  -15px;
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    /*background-color: red;*/
+}
+
+
+.moveState{
+    border-radius: 6px;
+    background-color: green;
+    font-size: 19px;
+    font-weight: bolder;
+    color: whitesmoke;
+    text-shadow: 0px 0px 1px black;
+    border: 0.75px solid darkgrey;
+    padding: 7px 20px;
+}
+
+
+
+
+.btnYes{
+    position: relative;
+    border-radius: 6px;
+    background-color: green;
+    color: whitesmoke;
+    text-shadow: 0px 0px 1px black;
+    border: 0.75px solid darkgrey;
+    padding: 5px 20px;
+}
+
+.btnNo{
+    margin-left: 50px;
+    position: relative;
+    border-radius: 6px;
+    background-color: red;
+    color: whitesmoke;
+    text-shadow: 0px 0px 1px black;
+    border: 0.75px solid darkgrey;
+    padding: 5px 20px;
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.popup{
+    position: fixed;
+    color: white;
+    background: rgba(33, 66, 66, 0.9);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 150px;
+    -webkit-box-shadow: 0 10px 15px #222;
+    align-items: center;
+    justify-content: center;
+    z-index: 999;
+}
+
+.overlay {
+    color: red;
+    background: rgba(0, 0, 0, 0.8);
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 1;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+}

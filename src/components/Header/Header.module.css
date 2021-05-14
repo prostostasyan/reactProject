@@ -1,0 +1,48 @@
+.header {
+    grid-area: h;
+    background-color: gold;
+}
+
+.header .logo {
+    width: 62px;
+}
+
+.header img {
+    width: 20px;
+}
+
+.loginBlock {
+    margin-top: 15px;
+    float: right;
+
+}
+.loginBlock a {
+    color: white;
+}
+
+.header .logo2 {
+    position: absolute;
+    margin-left: 100px;
+    width: 185px;
+    margin-top: -5px;
+}
+
+ .logout{
+
+    width:150px;
+    height: 30px;
+     font-size: 20px;
+     float: right;
+     background:red;
+    border: 1px solid #f9f2f2;
+    border-radius: 10px;
+}
+
+ .textLogout{
+     color: crimson;
+     float: left;
+     font-size: 20px;
+     margin-right: 20px;
+     font-weight: bolder;
+     /*border: 1px black solid;*/
+ }
