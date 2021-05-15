@@ -5,8 +5,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6fe1f2b-170b-4be4-b814-3329ec1ec8ea" name="Default Changelist" comment="My second commite">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="d6fe1f2b-170b-4be4-b814-3329ec1ec8ea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/components/News/News.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/News/News.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +16,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Stas &lt;stanislavzebek@mail.ru&gt;" />
         <option value="Stas" />
       </list>
     </option>
@@ -208,7 +209,7 @@
       <workItem from="1620911723592" duration="6028000" />
       <workItem from="1620982387593" duration="1484000" />
       <workItem from="1620985085956" duration="2025000" />
-      <workItem from="1621053682922" duration="20000" />
+      <workItem from="1621053682922" duration="172000" />
     </task>
     <task id="LOCAL-00001" summary="My second commite">
       <created>1620985898262</created>
@@ -217,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620985898262</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="My second commit">
+      <created>1621053796704</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621053796704</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,7 +246,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My first commite" />
     <MESSAGE value="My second commite" />
-    <option name="LAST_COMMIT_MESSAGE" value="My second commite" />
+    <MESSAGE value="My second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="My second commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="991" y="359" key="#NumbgameContainer.jsx" timestamp="1617949513265">
@@ -249,10 +258,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="370" y="451" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1618584170235" />
-    <state x="748" y="270" width="1567" height="867" key="CommitChangelistDialog2" timestamp="1620985896087">
+    <state x="748" y="270" width="1567" height="867" key="CommitChangelistDialog2" timestamp="1621053794930">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="748" y="270" width="1567" height="867" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1620985896087" />
+    <state x="748" y="270" width="1567" height="867" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1621053794930" />
     <state x="1061" y="443" key="FileChooserDialogImpl" timestamp="1619682747996">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
