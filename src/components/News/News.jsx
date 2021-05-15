@@ -22,7 +22,7 @@ const News = (props) => {
 
     return (
         <div>
-            <div>Здесь будут новости</div>
+            <div>Здесь (может быть) будут новости</div>
             <AddNewForm onSubmit={AddNew}/>
             {news}
         </div>
